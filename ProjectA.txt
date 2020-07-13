@@ -1,1 +1,4 @@
 Project A hase been started
+
+
+Function 1()  {  // added new function }
